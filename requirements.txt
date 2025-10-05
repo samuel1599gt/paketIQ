@@ -1,0 +1,10 @@
+numpy==1.26.1
+pandas==2.3.1
+matplotlib==3.10.3
+scikit-learn==1.7.0
+scipy==1.11.3
+joblib==1.5.1
+tqdm==4.67.1
+pyshark==0.6
+scapy==2.5.0
+reportlab==4.4.3
