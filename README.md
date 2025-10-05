@@ -93,5 +93,13 @@ python paketIQ.py archivo.pcap -o reporte.pdf -v
 * *-v, --verbose* → Activa el modo detallado, mostrando más información durante la ejecución.
 * *-h, --help* → Muestra el menú de ayuda y descripción de la herramienta.
 
+
+
+## 📄 Ejemplo de reporte
+
+Aquí puedes ver un ejemplo de reporte generado automáticamente por *PaketIQ*:  
+
+👉 [Ver reporte en PDF](docs/reporte.pdf)
+
 ---
 
